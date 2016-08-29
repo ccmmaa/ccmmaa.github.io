@@ -22,9 +22,3 @@ The first day was a bit of a shock. Cold calling? Was not expecting that. It's n
 ## Tip of the Week
 
 This is a pretty lame tip but make sure that you put your resume on Piazza! Companies are constantly searching on there for interns and the pool there isn't as big as it is on LinkedIn
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
